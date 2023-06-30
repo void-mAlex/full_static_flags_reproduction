@@ -1,0 +1,12 @@
+<div
+  {{did-intersect
+    onEnter=this.onEnteringIntersection
+    onExit=this.onExitingIntersection
+  }}
+>
+  {{#if this.itworks}}
+    IT WORKS
+  {{else}}
+    BROKEWN :(
+  {{/if}}
+</div>
