@@ -31,4 +31,5 @@ module.exports = function (defaults) {
     //    webpackConfig: { }
     // }
   });
+  // return app.toTree();
 };

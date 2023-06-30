@@ -1,0 +1,5 @@
+packages:
+  - 'service-test'
+  - 'static_embroider_v2'
+  - 'static_embroider_v3'
+  
